@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Tarun Dhiraj 👋
 
-<!--
-**tarundhiraj/tarundhiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer 👨‍💻 | Adventurist 🚀 | Tech Enthusiast 👾 | Noob Photographer 📷
+<br>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏡 Based out of Bangalore, India
+- 🌱 I’m currently learning Docker and Kubernetes
+- 💬 Ask me about aything. Happy to help!
+
+
+## Connect with me:
+
+[<img align="left" alt="tarundhiraj.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tarundhiraj | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="tarundhiraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tarundhiraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[website]: http://tarundhiraj.me
+[facebook]: https://facebook.com/tarun.dhiraj
+[instagram]: https://instagram.com/tarundhiraj
+[linkedin]: https://linkedin.com/in/tarundhiraj
