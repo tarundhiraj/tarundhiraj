@@ -5,8 +5,8 @@
 
 ## About Me
 
-- 🏡 Based out of Bangalore, India
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🏡 Based out of Berlin, Germany
+- 🌱 I’m currently learning Terraform, Airflow & FastAPI
 - 💬 Ask me about aything. Happy to help!
 
 
